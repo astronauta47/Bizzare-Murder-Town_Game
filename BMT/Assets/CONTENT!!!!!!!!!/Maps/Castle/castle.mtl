@@ -1,0 +1,1152 @@
+# OSRS/GENERIC_02_PATHB
+newmtl material_0
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_0.tga
+
+newmtl material_1
+Kd 1.0000 1.0000 1.0000
+illum 0
+
+# OSRS/WOOD_DOOR_BASE_01
+newmtl material_2
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_2.tga
+
+# OSRS/STONEWALL_01
+newmtl material_3
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_3.tga
+
+# OSRS/CONCRETE_01
+newmtl material_4
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_4.tga
+
+# OSRS/GENERIC_BOX_01
+newmtl material_5
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_5.tga
+
+# OSRS/GENERIC_BOX_02
+newmtl material_6
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_6.tga
+
+# OSRS/WOOD_02
+newmtl material_7
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_7.tga
+
+# OSRS/BANNER_02
+newmtl material_8
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_8.tga
+
+# OSRS/WOOD_DOOR_BASEPLANK_01
+newmtl material_9
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_9.tga
+
+# OSRS/WOOD_DOOR_02
+newmtl material_10
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_10.tga
+
+# OSRS/GOLD
+newmtl material_11
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_11.tga
+
+# OSRS/BANNER_01
+newmtl material_12
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_12.tga
+
+# OSRS/GENERIC_01_METAL
+newmtl material_13
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_13.tga
+
+# OSRS/RUG_04
+newmtl material_14
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_14.tga
+
+# OSRS/TREE_STUMP
+newmtl material_15
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_15.tga
+
+# OSRS/GOLD2
+newmtl material_16
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_16.tga
+
+# OSRS/FOLIAGE_02
+newmtl material_17
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd castle_material_17.tga
+
+# OSRS/PAINTING_01
+newmtl material_18
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_18.tga
+
+# OSRS/RUG_02
+newmtl material_19
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_19.tga
+
+# GLASS/OFFWNDWB
+newmtl material_20
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd castle_material_20.tga
+
+# OSRS/FOLIAGE_WILLOW
+newmtl material_21
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd castle_material_21.tga
+
+# OSRS/FOLIAGE_01
+newmtl material_22
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd castle_material_22.tga
+
+# OSRS/PAINTING_02
+newmtl material_23
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_23.tga
+
+# OSRS/MIRROR
+newmtl material_24
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_24.tga
+
+# OSRS/GENERIC_01
+newmtl material_25
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_25.tga
+
+# OSRS/BOOKSHELF_01
+newmtl material_26
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_26.tga
+
+# OSRS/TILE_ROOF_01
+newmtl material_27
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_27.tga
+
+# OSRS/WOOD_FLOOR_02
+newmtl material_28
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_28.tga
+
+# OSRS/CREDITS
+newmtl material_29
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_29.tga
+
+# OSRS/GRASS_01
+newmtl material_30
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_30.tga
+
+# OSRS/DIRT_01
+newmtl material_31
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_31.tga
+
+# OSRS/WATER_01_NEW
+newmtl material_32
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_32.tga
+
+# OSRS/CRATE_01
+newmtl material_33
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_33.tga
+
+# OSRS/CHECKERED_TILEFLOOR_01
+newmtl material_34
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_34.tga
+
+# OSRS/GENERIC_02_PATH
+newmtl material_35
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_35.tga
+
+# OSRS/KITCHEN_TILEFLOOR_01
+newmtl material_36
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_36.tga
+
+# OSRS/FURNACE_01
+newmtl material_37
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_37.tga
+
+# OSRS/STONEWALL_01B
+newmtl material_38
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_38.tga
+
+# OSRS/TILE_ROOF_03
+newmtl material_39
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_39.tga
+
+# OSRS/COBBLESTONE_01
+newmtl material_40
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_40.tga
+
+# OSRS/STAINED_GLASS_02
+newmtl material_41
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_41.tga
+
+# OSRS/WALL_CINDERBLOCK_01
+newmtl material_42
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_42.tga
+
+# OSRS/BLEND_GRASS_PATH01
+newmtl material_43
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_43.tga
+
+# OSRS/BLEND_GRASS_DIRT01
+newmtl material_44
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_44.tga
+
+# OSRS/BLEND_GRASS_BLACK
+newmtl material_45
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_45.tga
+
+# OSRS/WOOD_DOOR_01
+newmtl material_46
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_46.tga
+
+# OSRS/STAINED_GLASS_01
+newmtl material_47
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd castle_material_47.tga
+
+# OSRS/SPRITE_WATER_SPLASH
+newmtl material_48
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd castle_material_48.tga
+
+# OSRS/FIRE
+newmtl material_49
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd castle_material_49.tga
+
+# OSRS/RUG_03
+newmtl material_50
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_50.tga
+
+# OSRS/RUG_01
+newmtl material_51
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_51.tga
+
+# OSRS/TESTER_01
+newmtl material_52
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd castle_material_52.tga
+
+# OSRS/FOUNTAIN_SCROLL
+newmtl material_53
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd castle_material_53.tga
+
+# models\osrs\sink\cloth_01
+newmtl material_54
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_54.tga
+
+# models\osrs\sink\generic_box_01
+newmtl material_55
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_55.tga
+
+# models\osrs\sink\generic_02_pathb
+newmtl material_56
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_56.tga
+
+# models\osrs\fence_modular_tall\generic_01_metal
+newmtl material_57
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_57.tga
+
+# models\osrs\fence_modular\generic_01_metal
+newmtl material_58
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_58.tga
+
+# models\props_foliage\r_pfx_plants
+newmtl material_59
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd castle_material_59.tga
+
+# models\osrs\tree01_sky\generic_box_02
+newmtl material_60
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_60.tga
+
+# models\osrs\tree01_sky\foliage_02
+newmtl material_61
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd castle_material_61.tga
+
+# models\osrs\tree01_sky\foliage_01
+newmtl material_62
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd castle_material_62.tga
+
+# models\osrs\rug02\gold2
+newmtl material_63
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_63.tga
+
+# models\osrs\rug02\rug_02
+newmtl material_64
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_64.tga
+
+# models\osrs\rug01\gold2
+newmtl material_65
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_65.tga
+
+# models\osrs\rug01\rug_01
+newmtl material_66
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_66.tga
+
+# models\osrs\picture01\gold2
+newmtl material_67
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_67.tga
+
+# models\osrs\picture01\painting_01
+newmtl material_68
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_68.tga
+
+# models\osrs\picture02\gold2
+newmtl material_69
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_69.tga
+
+# models\osrs\picture02\painting_02
+newmtl material_70
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_70.tga
+
+# models\osrs\pew\wood_door_base_01
+newmtl material_71
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_71.tga
+
+# models\osrs\pew\cushion
+newmtl material_72
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_72.tga
+
+# models\osrs\boarded_window02\generic_box_01
+newmtl material_73
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_73.tga
+
+# models\osrs\boarded_window02\generic_box_02
+newmtl material_74
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_74.tga
+
+# models\osrs\boarded_window02\toolsblack
+newmtl material_75
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_75.tga
+
+# models\osrs\boarded_window02\generic_02_pathb
+newmtl material_76
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_76.tga
+
+# models\osrs\boarded_window01\generic_box_01
+newmtl material_77
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_77.tga
+
+# models\osrs\boarded_window01\toolsblack
+newmtl material_78
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_78.tga
+
+# models\osrs\boarded_window01\generic_box_02
+newmtl material_79
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_79.tga
+
+# models\osrs\boarded_window01\generic_02_pathb
+newmtl material_80
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_80.tga
+
+# models\osrs\bed01\generic_box_02
+newmtl material_81
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_81.tga
+
+# models\osrs\bed01\bed_01
+newmtl material_82
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_82.tga
+
+# models\osrs\wall_ornament01\gold2
+newmtl material_83
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_83.tga
+
+# models\osrs\wall_ornament01\generic_01_metal
+newmtl material_84
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_84.tga
+
+# models\osrs\wall_ornament01\shield
+newmtl material_85
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_85.tga
+
+# models\osrs\coffin\generic_box_02
+newmtl material_86
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_86.tga
+
+# models\osrs\coffin\concrete_01
+newmtl material_87
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_87.tga
+
+# models\osrs\coffin\wood_door_base_01
+newmtl material_88
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_88.tga
+
+# models\osrs\coffin\generic_01
+newmtl material_89
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_89.tga
+
+# models\osrs\altar\cloth_01
+newmtl material_90
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_90.tga
+
+# models\osrs\altar\marble_01
+newmtl material_91
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_91.tga
+
+# models\osrs\shelf01\generic_box_02
+newmtl material_92
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_92.tga
+
+# models\osrs\shelf01\generic_box_01
+newmtl material_93
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_93.tga
+
+# models\osrs\shelf01\wood_door_base_01
+newmtl material_94
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_94.tga
+
+# models\osrs\shelf02\generic_box_02
+newmtl material_95
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_95.tga
+
+# models\osrs\shelf02\generic_box_01
+newmtl material_96
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_96.tga
+
+# models\osrs\shelf02\wood_door_base_01
+newmtl material_97
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_97.tga
+
+# models\osrs\shelf03\wood_door_base_01
+newmtl material_98
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_98.tga
+
+# models\osrs\shelf03\generic_box_02
+newmtl material_99
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_99.tga
+
+# models\osrs\shelf03\generic_box_01
+newmtl material_100
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_100.tga
+
+# models\osrs\range\generic_01
+newmtl material_101
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_101.tga
+
+# models\osrs\range\furnace_01
+newmtl material_102
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_102.tga
+
+# models\osrs\range\generic_box_01
+newmtl material_103
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_103.tga
+
+# models\osrs\table01\generic_box_01
+newmtl material_104
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_104.tga
+
+# models\osrs\table01\wood_door_base_01
+newmtl material_105
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_105.tga
+
+# models\osrs\bed02\cloth_02
+newmtl material_106
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_106.tga
+
+# models\osrs\bed02\cloth_01
+newmtl material_107
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_107.tga
+
+# models\osrs\bed02\generic_box_02
+newmtl material_108
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_108.tga
+
+# models\osrs\bed02\gold2
+newmtl material_109
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_109.tga
+
+# models\osrs\candlestick\generic_box_01
+newmtl material_110
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_110.tga
+
+# models\osrs\candlestick\cloth_01
+newmtl material_111
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_111.tga
+
+# models\osrs\lantern\generic_02_pathb
+newmtl material_112
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_112.tga
+
+# models\osrs\lantern\generic_box_01
+newmtl material_113
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_113.tga
+
+# models\osrs\barrel\wood_02
+newmtl material_114
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_114.tga
+
+# models\osrs\barrel\generic_02_pathb
+newmtl material_115
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_115.tga
+
+# models\osrs\chair01\wood_door_base_01
+newmtl material_116
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_116.tga
+
+# models\osrs\fountain\water_01
+newmtl material_117
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_117.tga
+
+# models\osrs\chair02\cloth_02
+newmtl material_118
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_118.tga
+
+# models\osrs\chair02\wood_door_base_01
+newmtl material_119
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_119.tga
+
+# models\osrs\dining_table\cloth_01
+newmtl material_120
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_120.tga
+
+# models\osrs\dining_table\generic_box_02
+newmtl material_121
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_121.tga
+
+# models\osrs\candle\cloth_01
+newmtl material_122
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_122.tga
+
+# models\osrs\candle\gold2
+newmtl material_123
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_123.tga
+
+# models\osrs\crest\wood_02
+newmtl material_124
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_124.tga
+
+# models\osrs\crest\crest
+newmtl material_125
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_125.tga
+
+# models\osrs\crest\generic_box_02
+newmtl material_126
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_126.tga
+
+# models\osrs\bank_table\concrete_01
+newmtl material_127
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_127.tga
+
+# models\osrs\bank_table\generic_box_02
+newmtl material_128
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_128.tga
+
+# models\osrs\stool01\generic_box_01
+newmtl material_129
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_129.tga
+
+# models\osrs\stool02\wood_door_base_01
+newmtl material_130
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_130.tga
+
+# models\osrs\gravestones\concrete_01
+newmtl material_131
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_131.tga
+
+# models\osrs\gravestones\stonewall_01
+newmtl material_132
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_132.tga
+
+# models\osrs\wood_brace\wood_door_base_01
+newmtl material_133
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_133.tga
+
+# models\osrs\workbench\wood_02
+newmtl material_134
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_134.tga
+
+# models\osrs\workbench\generic_01_metal
+newmtl material_135
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_135.tga
+
+# models\osrs\workbench\generic_02_pathb
+newmtl material_136
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_136.tga
+
+# models\osrs\church_candles\generic_box_02
+newmtl material_137
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_137.tga
+
+# models\osrs\church_candles\generic_02_pathb
+newmtl material_138
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_138.tga
+
+# models\osrs\church_candles\cloth_01
+newmtl material_139
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_139.tga
+
+# models\osrs\organ\piano_keys
+newmtl material_140
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_140.tga
+
+# models\osrs\organ\wood_door_base_01
+newmtl material_141
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_141.tga
+
+# models\osrs\organ\generic_box_02
+newmtl material_142
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_142.tga
+
+# models\osrs\organ_pipes\generic_02_pathb
+newmtl material_143
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_143.tga
+
+# models\osrs\drawers\generic_box_02
+newmtl material_144
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_144.tga
+
+# models\osrs\drawers\gold2
+newmtl material_145
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_145.tga
+
+# models\osrs\drawers\wood_door_base_01
+newmtl material_146
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_146.tga
+
+# models\osrs\large_cabinet\wood_door_base_01
+newmtl material_147
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_147.tga
+
+# models\osrs\large_cabinet\generic_02_pathb
+newmtl material_148
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_148.tga
+
+# models\osrs\graveyard_fence\generic_01_metal
+newmtl material_149
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_149.tga
+
+# models\osrs\armour_suit\wood_door_base_01
+newmtl material_150
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_150.tga
+
+# models\osrs\armour_suit\cushion
+newmtl material_151
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_151.tga
+
+# models\osrs\armour_suit\generic_02_pathb
+newmtl material_152
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_152.tga
+
+# models\osrs\armour_suit\generic_01_metal
+newmtl material_153
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_153.tga
+
+# models\osrs\armour_suit\generic_02_path
+newmtl material_154
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_154.tga
+
+# models\osrs\armour_suit\gold2
+newmtl material_155
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_155.tga
+
+# models\osrs\bust\generic_02_pathb
+newmtl material_156
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_156.tga
+
+# models\osrs\cannon\generic_01_metal
+newmtl material_157
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_157.tga
+
+# models\osrs\cannon\generic_02_pathb
+newmtl material_158
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_158.tga
+
+# models\osrs\cannon\wood_door_base_01
+newmtl material_159
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_159.tga
+
+# models\osrs\cannonballs\generic_01_metal
+newmtl material_160
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_160.tga
+
+# models\osrs\standard\shield
+newmtl material_161
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_161.tga
+
+# models\osrs\standard\wood_door_baseplank_01
+newmtl material_162
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_162.tga
+
+# models\osrs\grass01\grass_sprite_01
+newmtl material_163
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_163.tga
+
+# models\osrs\crate01\generic_box_01
+newmtl material_164
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_164.tga
+
+# models\osrs\shelves01\generic_box_02
+newmtl material_165
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_165.tga
+
+# models\osrs\shelves02\generic_box_01
+newmtl material_166
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_166.tga
+
+# models\osrs\window_castle\generic_01
+newmtl material_167
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_167.tga
+
+# models\osrs\dead_tree\generic_box_02
+newmtl material_168
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_168.tga
+
+# models\osrs\dead_tree\wood_door_base_01
+newmtl material_169
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_169.tga
+
+# models\osrs\dead_tree_lg\generic_box_02
+newmtl material_170
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_170.tga
+
+# models\osrs\dead_tree_lg\wood_door_base_01
+newmtl material_171
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_171.tga
+
+# models\osrs\torch\generic_01_metal
+newmtl material_172
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_172.tga
+
+# models\osrs\torch\wood_02
+newmtl material_173
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_173.tga
+
+# models\osrs\tree01\generic_box_02
+newmtl material_174
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_174.tga
+
+# models\osrs\tree01\foliage_02
+newmtl material_175
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd castle_material_175.tga
+
+# models\osrs\tree01\foliage_01
+newmtl material_176
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd castle_material_176.tga
+
+# models\osrs\ladder\wood_02
+newmtl material_177
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_177.tga
+
+# models\osrs\ladder\wood_door_baseplank_01
+newmtl material_178
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_178.tga
+
+# models\osrs\castle_trim\generic_02_pathb
+newmtl material_179
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_179.tga
+
+# models\props_foliage\ah_foliage_sheet001
+newmtl material_180
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_180.tga
+
+# models\osrs\axe\generic_box_01
+newmtl material_181
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_181.tga
+
+# models\osrs\axe\cloth_01
+newmtl material_182
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_182.tga
+
+# models\osrs\axe\cloth_02
+newmtl material_183
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_183.tga
+
+# models\osrs\milk_bucket\generic_box_01
+newmtl material_184
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_184.tga
+
+# models\osrs\milk_bucket\generic_02_pathb
+newmtl material_185
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_185.tga
+
+# models\osrs\milk_bucket\cloth_01
+newmtl material_186
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_186.tga
+
+# models\osrs\milk_bucket\generic_box_02
+newmtl material_187
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_187.tga
+
+# models\osrs\flour\piano_keys
+newmtl material_188
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_188.tga
+
+# models\osrs\flour\gold
+newmtl material_189
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd castle_material_189.tga
+

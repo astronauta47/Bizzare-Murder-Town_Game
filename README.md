@@ -1,6 +1,9 @@
 # Bizzare Murder Town
 Multiplayer windows Game
 
+[PS]  
+The code is not of the highest quality because the project was created quickly and made by one person (fewer comments, larger classes)
+
 YT Presentation:  
 http://www.youtube.com/watch?v=60OnP5Xn9Y4  
 YT Alpha tests:  

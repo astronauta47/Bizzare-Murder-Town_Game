@@ -7,8 +7,7 @@ YT Alpha tests:
 https://www.youtube.com/watch?v=sRUPJxy2iS8  
 
 
-
-<p align="center">  Komendy w konsoli: </p>
+<br>Komendy w konsoli</br>
  **Kill (Player)**
 Wskazany gracz zostaje zabity
 

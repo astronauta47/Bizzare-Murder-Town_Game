@@ -6,40 +6,39 @@ http://www.youtube.com/watch?v=60OnP5Xn9Y4
 YT Alpha tests:  
 https://www.youtube.com/watch?v=sRUPJxy2iS8  
 
-
-<br>Komendy w konsoli</br>
- **Kill (Player)**
-Wskazany gracz zostaje zabity
+All console commands:  command (property)
+ **Kill (Player name)**
+Kills the selected player  
 
 **SpawnObject (Object name)** 
-Tworzy obiekt o podanej nazwie
+Creates the selected object in front of the player  
 
-SetModel <Player> <Model id> 
-Zmienia model podanego gracza
+**SetModel (Player name) (Model id)** 
+Changes the selected player's model  
 
-Time <liczba>
-Zmienia aktualny czas
+**Time (seconds)**
+Changes the time  
 
-RoundTime <Liczba> 
-Ustawia czas trwania rund
+**RoundTime (seconds)**
+Sets the length of the round  
 
-BeforeTime <Liczba> 
-Ustawia czas rozgrzewki
+**BeforeTime (seconds)**
+Sets the length of the preparing  
 
-Restart 
-Resetuje runde
+**Restart**
+Restarts actual round  
 
-SetName <Player> <Name> 
-Ustawia nick wskazanego gracza
+**SetName (Player name) (New player name)**
+Set the selected player name  
 
-GiveGun <Player> 
-Daje broń wskazanemu graczowi
+**GiveGun (Player name)**
+Give the gun for the selected player  
 
-FindBoxes <Liczba> 
-Ustawia liczbę znajdziek na mapie
+**FindBoxes (Liczba)** 
+Sets the number of "findboxes" in a round  
 
-Mute 
-Wycisza muzykę końcową
+**Mute** 
+Mutes sounds and the end music   
 
-UnMute 
-Odcisza muzykę końcową
+**UnMute**
+Unmutes sounds and the end music  

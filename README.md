@@ -10,10 +10,10 @@ https://www.youtube.com/watch?v=sRUPJxy2iS8
 
 
                                               Komendy w konsoli:
- Kill <Player> 
+ **Kill (Player)**
 Wskazany gracz zostaje zabity
 
-SpawnObject <Object name> 
+**SpawnObject (Object name)** 
 Tworzy obiekt o podanej nazwie
 
 SetModel <Player> <Model id> 

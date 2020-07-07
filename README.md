@@ -9,8 +9,8 @@ http://www.youtube.com/watch?v=60OnP5Xn9Y4
 YT Alpha tests:  
 https://www.youtube.com/watch?v=sRUPJxy2iS8  
 
-## Main Idea
-
+## Main Idea  
+In the game, we have 3 types of players. Policeman, murderer and innocent. 
 
 ## All console commands:  
 command + property   

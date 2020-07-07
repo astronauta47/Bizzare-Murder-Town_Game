@@ -6,8 +6,8 @@ http://www.youtube.com/watch?v=60OnP5Xn9Y4
 YT Alpha tests:  
 https://www.youtube.com/watch?v=sRUPJxy2iS8  
 
-All console commands:  command (property)  
-   **Kill (Player name)**  
+All console commands:  command (property)   
+**Kill (Player name)**  
 Kills the selected player  
 
 **SpawnObject (Object name)**   

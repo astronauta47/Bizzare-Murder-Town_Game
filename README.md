@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=sRUPJxy2iS8
 
 
 
-<p style="text-align: center;"> Komendy w konsoli: </p>
+<p align="center">  Komendy w konsoli: </p>
  **Kill (Player)**
 Wskazany gracz zostaje zabity
 

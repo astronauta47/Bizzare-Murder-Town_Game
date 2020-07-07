@@ -2,7 +2,7 @@
 Multiplayer windows Game
 
 YT Presentation:
-http://www.youtube.com/watch?v=60OnP5Xn9Y4
+http://www.youtube.com/watch?v=60OnP5Xn9Y4;
 YT Alpha tests:
 https://www.youtube.com/watch?v=sRUPJxy2iS8
 

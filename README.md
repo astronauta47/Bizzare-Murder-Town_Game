@@ -1,5 +1,6 @@
 # Bizzare Murder Town
-Multiplayer windows Game based on Garry's Mod: Murder
+Multiplayer windows Game  
+based on Garry's Mod: Murder
 
 The code is not of the highest quality because the project was created quickly and made by one person (fewer comments, larger classes)
 

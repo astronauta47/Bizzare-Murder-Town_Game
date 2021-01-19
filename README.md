@@ -12,8 +12,6 @@ https://www.youtube.com/watch?v=sRUPJxy2iS8
 ## Main Idea  
 In the game, we have 3 types of players. Policeman, murderer and innocent. 
 
-## Link to the domunetacion
-http://www.notion.so/scpproject
 ## All console commands:  
 command + property   
 **Kill (Player name)**  

@@ -12,6 +12,18 @@ https://www.youtube.com/watch?v=sRUPJxy2iS8
 ## Main Idea  
 In the game, we have 3 types of players. Policeman, murderer and innocent. 
 
+## Controlling
+W,S,A,D - Sterowanie postacią  
+Space -> Jump  
+F -> Push; throwing objects  
+E -> Picking up items  
+Ctrl -> Crouch  
+Alt -> Traitor radar  
+Enter (3s) -> Restart/Start round (if you'r host)  
+1 -> Show weapon (knife/pistol)  
+` -> Admin console  
+LPM -> Dragging bodies and objects; Shot; knife attack  
+
 ## All console commands:  
 command + property   
 **Kill (Player name)**  
